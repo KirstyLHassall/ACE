@@ -1,6 +1,6 @@
-# ACE
+# ACE [![DOI](https://zenodo.org/badge/170351902.svg)](https://zenodo.org/badge/latestdoi/170351902)
 Application for Conditional probability Elicitation
-[![DOI](https://zenodo.org/badge/170351902.svg)](https://zenodo.org/badge/latestdoi/170351902)
+
 
 an R-Shiny HTML application to elicit and record conditional probability tables for use in Bayesian Belief Networks (BBNs).
 

@@ -1,0 +1,4 @@
+Node,Type,State,State,State,State,State,State,State,State,State,State,State,State
+x,nodeType1,0,1,,,,,,,,,,
+y,nodeType1,-1,0,3,,,,,,,,,
+z,nodeType2,low,medium,high,,,,,,,,,

@@ -1,0 +1,18 @@
+From,To
+Slope,Water Buffering
+Structural Stability,Structure
+Organic Matter,Structure
+pH,Soil Biology
+Cation Exchange Capacity,Nutrient Buffering
+Soil Depth,Nutrient Buffering
+Water Buffering,Resilience
+Water Buffering,Ecosystem Services
+Structure,Water Buffering
+Structure,Soil Biology
+Soil Biology,Resilience
+Soil Biology,Ecosystem Services
+Nutrient Buffering,Resilience
+Nutrient Buffering,Ecosystem Services
+Productivity,SQH
+Resilience,SQH
+Ecosystem Services,SQH

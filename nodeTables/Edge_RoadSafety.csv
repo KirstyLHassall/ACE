@@ -1,0 +1,12 @@
+From,To
+Umbrella Sales,Rain
+Rain,Visibility
+Rain,Surface Water
+Visibility,# Car Crashes
+Surface Water,# Car Crashes
+Speed Limit,# Car Crashes
+# Car Crashes,# Fatalities
+# Fatalities,Road Safety
+# Car Crashes,Road Safety
+School Route,Road Safety
+Cycle Lane,Road Safety

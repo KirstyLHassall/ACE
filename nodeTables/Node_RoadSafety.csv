@@ -1,0 +1,11 @@
+Node,Type,State,State,State,State,State,State,State,State,State,State,State,State
+Umbrella Sales,nodeType1,Low,Medium,High,,,,,,,,,
+Rain,nodeType2,None,Light,Constant,Heavy,,,,,,,,
+Visibility,nodeType2,Poor,Good,,,,,,,,,,
+Surface Water,nodeType2,None,Some,Lots,,,,,,,,,
+Speed Limit,nodeType3,30,40,> 40,,,,,,,,,
+# Car Crashes,nodeType3,0-4,5-10,> 10,,,,,,,,,
+# Fatalities,nodeType3,0,1,> 1,,,,,,,,,
+School Route,nodeType3,No,Yes,,,,,,,,,,
+Cycle Lane,nodeType3,Absent,Present,,,,,,,,,,
+Road Safety,nodeType4,Bad,Good,,,,,,,,,,
